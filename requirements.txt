@@ -1,5 +1,1 @@
-streamlit
-google-generativeai
-python-dotenv
-pillow
-gtts
+pip install streamlit google-generativeai python-dotenv pillow gtts speechrecognition googletrans==4.0.0-rc1
